@@ -156,6 +156,11 @@ boring plumbing every agent eventually needs.
 
 ---
 
+## Related
+
+- [infer-rsi](https://github.com/wangzhao-11a/infer-rsi) — experiment ledger and statistical gate for inference tuning.
+- [kernel-agent](https://github.com/wangzhao-11a/kernel-agent) — kernel optimization loop with scoped strategy memory.
+
 ## License
 
 MIT — see `LICENSE`.
